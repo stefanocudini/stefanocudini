@@ -13,12 +13,12 @@ I contribute and maintain many **Open Source** projects used by people and compa
 ### 🍃 Leaflet Plugins:
 
 [![search](https://img.shields.io/github/stars/stefanocudini/leaflet-search?style=social&label=Search)](https://github.com/stefanocudini/leaflet-search) &nbsp;
-[![panel](https://img.shields.io/github/stars/stefanocudini/leaflet-panel-layers?style=social&label=Panel-Layers)](https://github.com/stefanocudini/leaflet-panel-layers) &nbsp;
+[![panel](https://img.shields.io/github/stars/stefanocudini/leaflet-panel-layers?style=social&label=PanelLayers)](https://github.com/stefanocudini/leaflet-panel-layers) &nbsp;
 [![layerjson](https://img.shields.io/github/stars/stefanocudini/leaflet-layerjson?style=social&label=LayerJson)](https://github.com/stefanocudini/leaflet-layerjson) &nbsp;
 [![gps](https://img.shields.io/github/stars/stefanocudini/leaflet-gps?style=social&label=Gps)](https://github.com/stefanocudini/leaflet-gps) &nbsp;
 [![compass](https://img.shields.io/github/stars/stefanocudini/leaflet-compass?style=social&label=Compass)](https://github.com/stefanocudini/leaflet-compass) &nbsp;
-[![geojson](https://img.shields.io/github/stars/stefanocudini/leaflet-geojson-selector?style=social&label=Geojson-Selector)](https://github.com/stefanocudini/leaflet-geojson-selector) &nbsp;
-[![locationpicker](https://img.shields.io/github/stars/stefanocudini/leaflet-locationpicker?style=social&label=Location-Picker)](https://github.com/stefanocudini/leaflet-locationpicker) 
+[![geojson](https://img.shields.io/github/stars/stefanocudini/leaflet-geojson-selector?style=social&label=GeojsonSelector)](https://github.com/stefanocudini/leaflet-geojson-selector) &nbsp;
+[![locationpicker](https://img.shields.io/github/stars/stefanocudini/leaflet-locationpicker?style=social&label=LocationPicker)](https://github.com/stefanocudini/leaflet-locationpicker) 
 
 ### 🗺️ Geospatial projects:
 [![geopicker](https://img.shields.io/github/stars/opengeo-tech/geopicker?style=social&label=GeoPicker)](https://github.com/opengeo-tech/geopicker) &nbsp;
