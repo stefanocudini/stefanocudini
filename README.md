@@ -23,10 +23,10 @@ I contribute and maintain many **Open Source** projects used by people and compa
 ### 🗺️ Geospatial projects:
 [![geopicker](https://img.shields.io/github/stars/opengeo-tech/geopicker?style=social&label=GeoPicker)](https://github.com/opengeo-tech/geopicker) &nbsp;
 [![kepler](https://img.shields.io/github/stars/keplerjs/kepler?style=social&label=KeplerJs)](https://github.com/keplerjs) &nbsp;
-[![peliaslite](https://img.shields.io/github/stars/stefanocudini/peliaslite?style=social&label=PeliasLite)](https://github.com/stefanocudini/peliaslite)
-[![gpsdata-server](https://img.shields.io/github/stars/stefanocudini/gpsdata-server?style=social&label=GPSdataServer)](https://github.com/stefanocudini/gpsdata-server)
-[![gps-network-tracking-system](https://img.shields.io/github/stars/stefanocudini/gps-network-tracking-system?style=social&label=GPS%20Tracking%20Network)](https://github.com/stefanocudini/gps-network-tracking-system)
-[![gpx-simplify-optimizer](https://img.shields.io/github/stars/stefanocudini/gpx-simplify-optimizer?style=social&label=GPX%20Optimizer)](https://github.com/stefanocudini/gpx-simplify-optimizer)
+[![peliaslite](https://img.shields.io/github/stars/stefanocudini/peliaslite?style=social&label=PeliasLite)](https://github.com/stefanocudini/peliaslite) &nbsp;
+[![gpsdata-server](https://img.shields.io/github/stars/stefanocudini/gpsdata-server?style=social&label=GPSdataServer)](https://github.com/stefanocudini/gpsdata-server) &nbsp;
+[![gps-network-tracking-system](https://img.shields.io/github/stars/stefanocudini/gps-network-tracking-system?style=social&label=GPS%20Tracking%20Network)](https://github.com/stefanocudini/gps-network-tracking-system) &nbsp;
+[![gpx-simplify-optimizer](https://img.shields.io/github/stars/stefanocudini/gpx-simplify-optimizer?style=social&label=GPX%20Optimizer)](https://github.com/stefanocudini/gpx-simplify-optimizer) &nbsp;
 
 ### 🛠 Minor projects
 [![Ultra Light Gallery](https://img.shields.io/github/stars/stefanocudini/UltraLightGallery?style=social&label=Ultra%20Light%20Gallery)](https://github.com/stefanocudini/UltraLightGallery) &nbsp;
