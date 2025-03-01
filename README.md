@@ -18,20 +18,20 @@ I contribute and maintain many **Open Source** projects used by people and compa
 [![gps](https://img.shields.io/github/stars/stefanocudini/leaflet-gps?style=social&label=Gps)](https://github.com/stefanocudini/leaflet-gps) &nbsp;
 [![compass](https://img.shields.io/github/stars/stefanocudini/leaflet-compass?style=social&label=Compass)](https://github.com/stefanocudini/leaflet-compass) &nbsp;
 [![geojson](https://img.shields.io/github/stars/stefanocudini/leaflet-geojson-selector?style=social&label=Geojson-Selector)](https://github.com/stefanocudini/leaflet-geojson-selector) &nbsp;
-[![locationpicker](https://img.shields.io/github/stars/stefanocudini/leaflet-locationpicker?style=social&label=LocationPicker)](https://github.com/stefanocudini/leaflet-locationpicker) 
+[![locationpicker](https://img.shields.io/github/stars/stefanocudini/leaflet-locationpicker?style=social&label=Location-Picker)](https://github.com/stefanocudini/leaflet-locationpicker) 
 
 ### 🗺️ Geospatial projects:
 [![geopicker](https://img.shields.io/github/stars/opengeo-tech/geopicker?style=social&label=GeoPicker)](https://github.com/opengeo-tech/geopicker) &nbsp;
 [![kepler](https://img.shields.io/github/stars/keplerjs/kepler?style=social&label=KeplerJs)](https://github.com/keplerjs) &nbsp;
 [![peliaslite](https://img.shields.io/github/stars/stefanocudini/peliaslite?style=social&label=PeliasLite)](https://github.com/stefanocudini/peliaslite)
 [![gpsdata-server](https://img.shields.io/github/stars/stefanocudini/gpsdata-server?style=social&label=GPSdataServer)](https://github.com/stefanocudini/gpsdata-server)
-[![gps-network-tracking-system](https://img.shields.io/github/stars/stefanocudini/gps-network-tracking-system?style=social&label=GPSNetworkTrackingSystem)](https://github.com/stefanocudini/gps-network-tracking-system)
-[![gpx-simplify-optimizer](https://img.shields.io/github/stars/stefanocudini/gpx-simplify-optimizer?style=social&label=GPXSimplifyOptimizer)](https://github.com/stefanocudini/gpx-simplify-optimizer)
+[![gps-network-tracking-system](https://img.shields.io/github/stars/stefanocudini/gps-network-tracking-system?style=social&label=GPS%20Tracking%20Network)](https://github.com/stefanocudini/gps-network-tracking-system)
+[![gpx-simplify-optimizer](https://img.shields.io/github/stars/stefanocudini/gpx-simplify-optimizer?style=social&label=GPX%20Optimizer)](https://github.com/stefanocudini/gpx-simplify-optimizer)
 
 ### 🛠 Minor projects
-[![Ultra Light Gallery](https://img.shields.io/github/stars/stefanocudini/UltraLightGallery?style=social&label=UltraLightGallery)](https://github.com/stefanocudini/UltraLightGallery) &nbsp;
+[![Ultra Light Gallery](https://img.shields.io/github/stars/stefanocudini/UltraLightGallery?style=social&label=Ultra%20Light%20Gallery)](https://github.com/stefanocudini/UltraLightGallery) &nbsp;
 [![Weather Telegram Bot](https://img.shields.io/github/stars/stefanocudini/weather-telegram-bot?style=social&label=Weather%20Telegram%20Bot)](https://github.com/stefanocudini/weather-telegram-bot) &nbsp;
-[![node-fetch-dom](https://img.shields.io/github/stars/stefanocudini/node-fetch-dom?style=social&label=node-fetch-dom)](https://github.com/stefanocudini/node-fetch-dom) 
+[![node-fetch-dom](https://img.shields.io/github/stars/stefanocudini/node-fetch-dom?style=social&label=NodeFetchDOM)](https://github.com/stefanocudini/node-fetch-dom) 
 
 ### 🚧 Work in progress
 [![NeleusGeocoder](https://img.shields.io/github/stars/neleus-geocoder?style=social&label=Neleus%20Geocoder)](https://github.com/neleus-geocoder) &nbsp;
@@ -40,7 +40,7 @@ I contribute and maintain many **Open Source** projects used by people and compa
 
 ### 🔬 Experimental
 [![GeoSFX](https://img.shields.io/github/stars/stefanocudini/GeoSFX?style=social&label=GeoSFX)](https://github.com/stefanocudini/GeoSFX) &nbsp;
-[![ChessWebsocket](https://img.shields.io/github/stars/stefanocudini/websocket-chess?style=social&label=websocket-chess)](https://github.com/stefanocudini/websocket-chess) &nbsp;
+[![ChessWebsocket](https://img.shields.io/github/stars/stefanocudini/websocket-chess?style=social&label=Chess%20Websockets)](https://github.com/stefanocudini/websocket-chess) &nbsp;
 [![osm-contributors-by-area](https://img.shields.io/github/stars/stefanocudini/websocket-chess?style=social&label=osm-contributors-by-area)](https://github.com/stefanocudini/osm-contributors-by-area) &nbsp;
 [![osm-tile-cacher](https://img.shields.io/github/stars/stefanocudini/websocket-chess?style=social&label=osm-tile-cacher)](https://github.com/stefanocudini/osm-tile-cacher) &nbsp;
 [![foursquare-here](https://img.shields.io/github/stars/stefanocudini/websocket-chess?style=social&label=foursquare-here)](https://github.com/stefanocudini/foursquare-here) 
