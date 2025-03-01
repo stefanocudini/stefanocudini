@@ -17,7 +17,7 @@ I contribute and maintain many **Open Source** projects used by people and compa
 [![layerjson](https://img.shields.io/github/stars/stefanocudini/leaflet-layerjson?style=social&label=LayerJson)](https://github.com/stefanocudini/leaflet-layerjson) &nbsp;
 [![gps](https://img.shields.io/github/stars/stefanocudini/leaflet-gps?style=social&label=Gps)](https://github.com/stefanocudini/leaflet-gps) &nbsp;
 [![compass](https://img.shields.io/github/stars/stefanocudini/leaflet-compass?style=social&label=Compass)](https://github.com/stefanocudini/leaflet-compass) &nbsp;
-[![geojson](https://img.shields.io/github/stars/stefanocudini/leaflet-geojson-selector?style=social&label=GeojsonSelector)](https://github.com/stefanocudini/leaflet-geojson-selector) &nbsp;
+[![geojson](https://img.shields.io/github/stars/stefanocudini/leaflet-geojson-selector?style=social&label=GeoSelector)](https://github.com/stefanocudini/leaflet-geojson-selector) &nbsp;
 [![locationpicker](https://img.shields.io/github/stars/stefanocudini/leaflet-locationpicker?style=social&label=LocationPicker)](https://github.com/stefanocudini/leaflet-locationpicker) 
 
 ### 🗺️ Geospatial projects:
