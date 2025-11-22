@@ -33,8 +33,6 @@ I contribute and maintain many **Open Source** projects used by people and compa
 [![orthogonalize-js](https://img.shields.io/github/stars/stefanocudini/orthogonalize-js?style=social&label=OrthogonalizeJs)](https://github.com/stefanocudini/orthogonalize-js) &nbsp;
 [![Fetch DOM](https://img.shields.io/github/stars/stefanocudini/node-fetch-dom?style=social&label=FetchDOM)](https://github.com/stefanocudini/node-fetch-dom) &nbsp;
 
-[NPM Packages](https://www.npmjs.com/~stefcud)
-
 [Dotfiles](https://github.com/stefanocudini/dotfiles)
 
 to encourage the maintenance of projects that have helped your work you can send a [Donation ❤️](https://www.paypal.me/stefanocudini)
