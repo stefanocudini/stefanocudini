@@ -34,5 +34,3 @@ I contribute and maintain many **Open Source** projects used by people and compa
 [![Fetch DOM](https://img.shields.io/github/stars/stefanocudini/node-fetch-dom?style=social&label=FetchDOM)](https://github.com/stefanocudini/node-fetch-dom) &nbsp;
 
 to encourage the maintenance of projects that have helped your work you can send a [Donation ❤️](https://www.paypal.me/stefanocudini)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=stefanocudini&theme=graywhite&hide_border=true&custom_title=Activity%20stats)
