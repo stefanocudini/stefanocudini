@@ -28,9 +28,9 @@ I contribute and maintain many **Open Source** projects used by people and compa
 [![NeleusGeocoder](https://img.shields.io/github/stars/neleus-geocoder?style=social&label=Neleus%20Geocoder)](https://github.com/neleus-geocoder) &nbsp;
 
 ### 🔬 Experiments:
-[![overpass-query-cache](https://img.shields.io/github/stars/stefanocudini/overpass-query-cache?style=social&label=OverpassQueryCache)](https://github.com/stefanocudini/overpass-query-cache) 
-[![GeoSFX](https://img.shields.io/github/stars/stefanocudini/GeoSFX?style=social&label=GeoSFX)](https://github.com/stefanocudini/GeoSFX) &nbsp;
 [![orthogonalize-js](https://img.shields.io/github/stars/stefanocudini/orthogonalize-js?style=social&label=OrthogonalizeJs)](https://github.com/stefanocudini/orthogonalize-js) &nbsp;
 [![Fetch DOM](https://img.shields.io/github/stars/stefanocudini/node-fetch-dom?style=social&label=FetchDOM)](https://github.com/stefanocudini/node-fetch-dom) &nbsp;
 
 to encourage the maintenance of projects that have helped your work you can send a [Donation ❤️](https://www.paypal.me/stefanocudini)
+
+https://github-stats-extended.vercel.app/api?username=octocat&theme=radical
